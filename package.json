@@ -1,0 +1,31 @@
+{
+  "name": "cv",
+  "version": "1.0.0",
+  "description": "CV de Haerphi (Haerens Philippe)",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass --watch ./public/sass/style.scss ./public/style.css",
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haerphi/CV.git"
+  },
+  "keywords": [
+    "CV",
+    "haerphi",
+    "haerens",
+    "philippe"
+  ],
+  "author": "Haerphi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haerphi/CV/issues"
+  },
+  "homepage": "https://github.com/haerphi/CV#readme",
+  "dependencies": {
+    "ejs": "^2.7.1",
+    "express": "^4.17.1",
+    "node-sass": "^4.12.0"
+  }
+}
