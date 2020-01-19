@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/haerphi/CV#readme",
   "dependencies": {
-    "ejs": "^2.7.1",
+    "ejs": "^3.0.1",
     "express": "^4.17.1",
     "node-sass": "^4.13.1"
   }
